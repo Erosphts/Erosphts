@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Erosphts
+- 👀 I’m interested in programming, technology, and learning new things.
+- 🌱 I’m currently learning Java and Python.
+- 💞️ I’m looking to collaborate with students and professors at the moment.
+- 📫 You can reach me through GitHub or via email at phts765.brasil@gmail.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I love exploring new hiking trails and capturing photos of nature along the way!
